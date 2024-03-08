@@ -1,5 +1,7 @@
 
 User-agent: *
-Disallow: /
-Allow: /rcde_workshops
+
+Allow: /
+Disallow: /404
+Disallow: /404.html
 
